@@ -1,6 +1,7 @@
 class App {
     run() {
         window.alert(1);
+        console.log('hos');
     }
 }
 
